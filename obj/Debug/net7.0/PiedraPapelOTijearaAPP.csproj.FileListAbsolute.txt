@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\BackEnd\CSharp\Basics\introd\PiedraPapelOTijearaAPP\PiedraPapelOTijearaAPP\bin\Debug\net7.0\PiedraPapelOTijearaAPP.exe
+C:\Users\Usuario\Documents\BackEnd\CSharp\Basics\introd\PiedraPapelOTijearaAPP\PiedraPapelOTijearaAPP\bin\Debug\net7.0\PiedraPapelOTijearaAPP.deps.json
+C:\Users\Usuario\Documents\BackEnd\CSharp\Basics\introd\PiedraPapelOTijearaAPP\PiedraPapelOTijearaAPP\bin\Debug\net7.0\PiedraPapelOTijearaAPP.runtimeconfig.json
+C:\Users\Usuario\Documents\BackEnd\CSharp\Basics\introd\PiedraPapelOTijearaAPP\PiedraPapelOTijearaAPP\bin\Debug\net7.0\PiedraPapelOTijearaAPP.dll
+C:\Users\Usuario\Documents\BackEnd\CSharp\Basics\introd\PiedraPapelOTijearaAPP\PiedraPapelOTijearaAPP\bin\Debug\net7.0\PiedraPapelOTijearaAPP.pdb
+C:\Users\Usuario\Documents\BackEnd\CSharp\Basics\introd\PiedraPapelOTijearaAPP\PiedraPapelOTijearaAPP\obj\Debug\net7.0\PiedraPapelOTijearaAPP.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\BackEnd\CSharp\Basics\introd\PiedraPapelOTijearaAPP\PiedraPapelOTijearaAPP\obj\Debug\net7.0\PiedraPapelOTijearaAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\BackEnd\CSharp\Basics\introd\PiedraPapelOTijearaAPP\PiedraPapelOTijearaAPP\obj\Debug\net7.0\PiedraPapelOTijearaAPP.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\BackEnd\CSharp\Basics\introd\PiedraPapelOTijearaAPP\PiedraPapelOTijearaAPP\obj\Debug\net7.0\PiedraPapelOTijearaAPP.AssemblyInfo.cs
+C:\Users\Usuario\Documents\BackEnd\CSharp\Basics\introd\PiedraPapelOTijearaAPP\PiedraPapelOTijearaAPP\obj\Debug\net7.0\PiedraPapelOTijearaAPP.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\BackEnd\CSharp\Basics\introd\PiedraPapelOTijearaAPP\PiedraPapelOTijearaAPP\obj\Debug\net7.0\PiedraPapelOTijearaAPP.dll
+C:\Users\Usuario\Documents\BackEnd\CSharp\Basics\introd\PiedraPapelOTijearaAPP\PiedraPapelOTijearaAPP\obj\Debug\net7.0\refint\PiedraPapelOTijearaAPP.dll
+C:\Users\Usuario\Documents\BackEnd\CSharp\Basics\introd\PiedraPapelOTijearaAPP\PiedraPapelOTijearaAPP\obj\Debug\net7.0\PiedraPapelOTijearaAPP.pdb
+C:\Users\Usuario\Documents\BackEnd\CSharp\Basics\introd\PiedraPapelOTijearaAPP\PiedraPapelOTijearaAPP\obj\Debug\net7.0\PiedraPapelOTijearaAPP.genruntimeconfig.cache
+C:\Users\Usuario\Documents\BackEnd\CSharp\Basics\introd\PiedraPapelOTijearaAPP\PiedraPapelOTijearaAPP\obj\Debug\net7.0\ref\PiedraPapelOTijearaAPP.dll
